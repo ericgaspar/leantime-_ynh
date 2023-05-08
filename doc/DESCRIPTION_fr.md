@@ -1,1 +1,1 @@
-Ceci est une fausse description des fonctionalités de l'app
+Leantime est un système de gestion de projet open source allégé pour les startups et les innovateurs. C'est une alternative à ClickUp, Notion et Asana.
