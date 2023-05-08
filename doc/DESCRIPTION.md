@@ -1,1 +1,1 @@
-This is a dummy description of this app features
+Leantime is a lean open source project management system for startups and innovators. It's an alternative to ClickUp, Notion, and Asana.
